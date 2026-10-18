@@ -1,10 +1,10 @@
-# NESTFLOWCAD — Kurulum Dosyaları
+# ZedCAD — Kurulum Dosyaları
 
-Bu depo yalnızca **NESTFLOWCAD**'in kurulum dosyalarını ve güncelleme
+Bu depo yalnızca **ZedCAD**'in kurulum dosyalarını ve güncelleme
 bilgisini barındırır — kaynak kod içermez.
 
 En güncel sürümü kurmak için [Releases](../../releases) sayfasındaki
-en son `NESTFLOWCAD-*-setup.exe` dosyasını indirin.
+en son `ZedCAD-*-setup.exe` dosyasını indirin.
 
 ---
 

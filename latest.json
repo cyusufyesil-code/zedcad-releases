@@ -1,5 +1,5 @@
 {
   "version": "1.38.27",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.27/CAD16-1.38.27-setup.exe",
-  "notes": "DWG okuma: görünmez öznitelikler çizilmez, 3B ağlar (PolyfaceMesh) ve 3B eksenli bloklar doğru çizilir."
+  "url": "https://github.com/cyusufyesil-code/zedcad-releases/releases/download/v1.38.27/ZedCAD-1.38.27-setup.exe",
+  "notes": "ZedCAD: yeni ad, yeni logo ve açılış ekranı. DWG okuma: görünmez öznitelikler çizilmez, 3B ağlar (PolyfaceMesh) ve 3B eksenli bloklar doğru çizilir."
 }
